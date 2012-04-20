@@ -1,0 +1,13 @@
+
+  http-client.pl
+  by Max Clark <max@clarksys.com>
+
+About
+-----
+
+An HTTP Client implemented in PERL using IO::Socket. I can't remember why I needed this, probably something for Squid or Varnish.
+
+License
+-------
+
+Released under the GPL license. See the file COPYING included in the distribution for details.
